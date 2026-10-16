@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-16",
+  "slug": "young-driver-car-hire",
+  "nav": "Young drivers",
+  "title": "Young Driver Car Hire: Age Rules & Surcharges",
+  "description": "Car hire for young drivers under 25: minimum ages, young driver surcharges, rules for drivers over 70 and tips to cut the cost in the USA, UK and Europe.",
+  "eyebrow": "Car hire age rules",
+  "h1": "Car hire for young drivers",
+  "intro": "Under 25? You can usually still hire a car, but expect a surcharge and some limits. Here’s how age rules work.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Route_66_Ribbon_Road.jpg",
+    "alt": "The narrow historic Ribbon Road section of Route 66 in Oklahoma",
+    "credit": "Robert Jones, CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Route_66_Ribbon_Road.jpg"
+  },
+  "sections": [
+    {
+      "h2": "Minimum ages",
+      "html": "<p>Many rental companies set a minimum age of 21, and some 23 or 25 for certain countries or car types. A few rent to younger drivers in some places: in the US, New York and Michigan state law requires companies to rent to drivers aged 18 and over. Most companies also require you to have held a full licence for at least a year or two.</p>"
+    },
+    {
+      "h2": "Young driver surcharges",
+      "html": "<p>Drivers under 25 usually pay a <strong>young driver surcharge</strong>, charged per day and often with a maximum per rental. You may also be limited to smaller car classes. Always enter the driver’s real age when you search: the price shown should then include the surcharge, so you can compare properly.</p>"
+    },
+    {
+      "h2": "Older drivers",
+      "html": "<p>Most companies don’t have an upper age limit in the US or UK, but some do in certain countries, or ask drivers over 70 or 75 for extra documents such as a doctor’s letter. If you’re over 70, check the terms for the country you’re visiting.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I hire a car at 18?",
+      "a": "Sometimes. Most companies start at 21, but some rent to 18-year-olds in certain places, such as New York and Michigan in the US. Expect a surcharge and limited car choice."
+    },
+    {
+      "q": "How much is the young driver fee?",
+      "a": "It varies by company, country and age, and is usually charged per day with a cap per rental. Enter your age when you search so the total includes it."
+    }
+  ],
+  "related": [
+    "car-hire-excess-insurance",
+    "car-rental-companies",
+    "compare"
+  ],
+  "ctaSearch": false,
+  "keywords": [
+    "under 25",
+    "young driver",
+    "age",
+    "over 70",
+    "senior driver"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-16",
+  "slug": "van-hire",
+  "nav": "Van hire",
+  "navOrder": 6,
+  "title": "Van Hire & Cargo Van Rental: Compare Prices",
+  "description": "Compare van hire and cargo van rental for moving house, deliveries and big shopping trips. Licence rules, van sizes and what to check before you book.",
+  "eyebrow": "Van and truck rental",
+  "h1": "Van hire and cargo van rental",
+  "intro": "Moving house, collecting furniture or doing a big clear-out? Compare vans from the rental brands near you.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694802180731-1ee2ea37692a",
+    "alt": "White van driving down a country road beside green fields",
+    "credit": "Artem Balashevsky",
+    "creditUrl": "https://unsplash.com/@abalashevsky"
+  },
+  "sections": [
+    {
+      "h2": "Which van size do you need?",
+      "html": "<ul><li><strong>Small van</strong> (for example a Ford Transit Connect size): a few boxes, a single piece of furniture or a bike.</li><li><strong>Medium van</strong> (Transit Custom size): a studio or one-bedroom flat.</li><li><strong>Large van / Luton</strong>: a bigger home move. Luton vans have a box body and often a tail-lift.</li></ul><p>In the US, rental brands offer cargo vans and pickup trucks, while larger moving trucks come from specialist truck rental companies.</p>"
+    },
+    {
+      "h2": "Licence rules",
+      "html": "<p>In the UK, a standard car licence (category B) lets you drive vans up to 3,500 kg maximum authorised mass, which covers most hire vans. In the US, cargo vans and most moving trucks can be driven on an ordinary licence. Age rules are often stricter for vans than for cars, so check before you book.</p>"
+    },
+    {
+      "h2": "Before you drive away",
+      "html": "<ul><li>Check the van’s height before car parks and drive-throughs.</li><li>Photograph any existing damage, including the load area.</li><li>Ask whether mileage is limited: van hire often includes a set daily mileage.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I drive a hire van on a car licence?",
+      "a": "In the UK, yes for vans up to 3,500 kg on a category B licence, which covers most hire vans. Rental companies may also have minimum age and licence-holding requirements."
+    }
+  ],
+  "related": [
+    "local-car-hire",
+    "one-way-car-hire",
+    "car-hire-excess-insurance"
+  ],
+  "ctaSearch": false,
+  "keywords": [
+    "van hire",
+    "van rental",
+    "cargo van",
+    "luton van",
+    "moving truck",
+    "transit van"
+  ]
+}

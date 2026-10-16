@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-16",
+  "slug": "airport-car-hire/heathrow",
+  "title": "Heathrow Car Hire: Compare Rental Cars at LHR",
+  "description": "Compare Heathrow car hire from Hertz, Avis, Enterprise, Sixt, Europcar and more. Pick-up tips for Terminals 2–5, shuttle depots and driving in London.",
+  "eyebrow": "London Heathrow (LHR)",
+  "h1": "Heathrow car hire",
+  "intro": "Compare car hire at London Heathrow across the comparison sites and big brands, then pick up after you land at any terminal.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare data-region=\"uk\" role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"LHR\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad",
+    "alt": "Aerial view of the London skyline by day",
+    "credit": "Benjamin Davies",
+    "creditUrl": "https://unsplash.com/@bendavisual"
+  },
+  "blocks": [
+    {
+      "type": "compare",
+      "position": "top",
+      "title": "Compare heathrow car hire on every site",
+      "intro": "Set your dates and times above, then open each site to see its live prices for the same pick-up."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Picking up your car at Heathrow",
+      "html": "<p>Heathrow has four passenger terminals (2, 3, 4 and 5). Most rental companies run their Heathrow branches from depots just outside the airport, reached by a short courtesy shuttle from the terminals. Follow the car rental signs in arrivals and check your voucher for the exact pick-up point and shuttle stop.</p>"
+    },
+    {
+      "h2": "Driving from Heathrow",
+      "html": "<p>The airport sits right by the M4 and M25, so it’s quick to head west towards Windsor, Oxford, Bath and Cornwall, or around London on the M25. Remember the UK drives on the <strong>left</strong>. Heathrow is inside London’s Ultra Low Emission Zone (ULEZ); most modern rental cars meet the standard, but check with the rental company. Driving into central London also means the daily Congestion Charge, which the driver pays, so many visitors leave the car outside the centre.</p>"
+    },
+    {
+      "h2": "Tips for Heathrow car hire",
+      "html": "<ul><li>Allow time for the shuttle on the way back, as well as for refuelling near the airport.</li><li>Automatic cars are less common in the UK than in the US. Book early if you need one.</li><li>Check whether your rate includes the ULEZ-compliant car and any toll or charge admin fees.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which terminal do I collect my Heathrow hire car from?",
+      "a": "Most companies collect you from the terminal by shuttle and you pick the car up at their depot nearby. Your booking confirmation gives the meeting point for your terminal."
+    },
+    {
+      "q": "Do I pay the Congestion Charge in a rental car?",
+      "a": "Yes, if you drive into the central London charging zone during charging hours, the driver is responsible for paying it. Unpaid charges are usually passed on by the rental company with an admin fee."
+    }
+  ],
+  "cardText": "Shuttle-served depots for every big brand, minutes from all four terminals.",
+  "related": [
+    "airport-car-hire",
+    "airport-car-hire/gatwick",
+    "car-hire-excess-insurance"
+  ],
+  "keywords": [
+    "lhr",
+    "lhr car hire",
+    "lhr car rental"
+  ],
+  "ctaSearch": false
+}

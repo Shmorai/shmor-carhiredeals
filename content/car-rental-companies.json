@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-16",
+  "slug": "car-rental-companies",
+  "nav": "Rental brands",
+  "navOrder": 4,
+  "title": "Car Rental Companies: Hertz, Avis, Enterprise & More",
+  "description": "A guide to the major car rental companies: Hertz, Avis, Enterprise, SIXT, Europcar, Budget, Alamo, National, Thrifty and Dollar, and who owns which brand.",
+  "eyebrow": "Major car hire brands",
+  "h1": "The major car rental companies",
+  "intro": "Most of the big rental brands belong to a handful of groups. Here’s who’s who, with links to each brand’s site in the USA, UK and Europe.",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg/1280px-Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg",
+    "alt": "Rows of rental cars in the car hire parking area at Florence Airport",
+    "credit": "Mattes, public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg"
+  },
+  "blocks": [
+    {
+      "type": "brands",
+      "position": "top",
+      "title": "Rental brands",
+      "intro": "Open a brand’s own site for your region. Loyalty members often get faster pick-up and member rates."
+    },
+    {
+      "type": "brands",
+      "kind": "search",
+      "title": "Comparison sites and brokers",
+      "intro": "Brokers and metasearch sites compare many suppliers, including local companies you may not know."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who owns which brand?",
+      "html": "<ul><li><strong>Enterprise Mobility</strong>: Enterprise, National and Alamo.</li><li><strong>Avis Budget Group</strong>: Avis and Budget (and Zipcar car sharing).</li><li><strong>Hertz</strong>: Hertz, Dollar and Thrifty.</li><li><strong>Sixt SE</strong>: SIXT, a German company with a large European network and a growing presence in the US.</li><li><strong>Europcar Mobility Group</strong>: Europcar, plus low-cost brands in Europe.</li></ul><p>In some countries brands are run by local franchise partners, so service and policies can differ from country to country.</p>"
+    },
+    {
+      "h2": "Brand or broker?",
+      "html": "<p>Booking <strong>direct with a brand</strong> makes it easy to use loyalty programmes and deal with one company if plans change. <strong>Brokers</strong> such as Rentalcars.com or Discover Cars compare many suppliers at once, including local firms, and sometimes find lower prices. With a broker, your contract is still with the rental company at the desk, so read both sets of terms.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are Alamo, National and Enterprise the same company?",
+      "a": "They’re separate brands owned by the same group, Enterprise Mobility. Prices, policies and loyalty programmes differ between them."
+    },
+    {
+      "q": "Is it better to book with a broker or direct?",
+      "a": "Neither is always cheaper. Compare both: brokers search many suppliers at once, while brands may offer member rates and simpler changes."
+    }
+  ],
+  "related": [
+    "compare",
+    "local-car-hire",
+    "car-hire-excess-insurance"
+  ],
+  "ctaSearch": false,
+  "keywords": [
+    "hertz",
+    "avis",
+    "enterprise",
+    "sixt",
+    "europcar",
+    "budget",
+    "alamo",
+    "national",
+    "thrifty",
+    "dollar"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-16",
+  "slug": "airport-car-hire/new-york-jfk",
+  "title": "JFK Car Rental: Compare Rental Cars at JFK Airport",
+  "description": "Compare JFK airport car rental from Hertz, Avis, Enterprise, National, Budget and more. How the AirTrain to Federal Circle works, plus New York driving tips.",
+  "eyebrow": "New York JFK (JFK)",
+  "h1": "JFK car rental",
+  "intro": "Compare rental cars at New York JFK across the comparison sites and big brands, ready for Long Island, the Hamptons or upstate New York.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare data-region=\"us\" role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"JFK\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Manhattan_skyline_from_Upper_New_York_Bay%2C_20231001_1041_0889.jpg/1280px-Manhattan_skyline_from_Upper_New_York_Bay%2C_20231001_1041_0889.jpg",
+    "alt": "Manhattan skyline seen from Upper New York Bay",
+    "credit": "Jakub Hałun, CC BY 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Manhattan_skyline_from_Upper_New_York_Bay,_20231001_1041_0889.jpg"
+  },
+  "blocks": [
+    {
+      "type": "compare",
+      "position": "top",
+      "title": "Compare jfk car rental on every site",
+      "intro": "Set your dates and times above, then open each site to see its live prices for the same pick-up."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Picking up your car at JFK",
+      "html": "<p>Rental cars at JFK are collected at <strong>Federal Circle</strong>. Take the AirTrain JFK from your terminal to the Federal Circle station; travel on the AirTrain between the terminals and Federal Circle is free. The rental companies’ counters and cars are there.</p>"
+    },
+    {
+      "h2": "Driving in and around New York",
+      "html": "<p>Many bridges and tunnels around New York City charge tolls, and Manhattan’s congestion relief zone charges vehicles entering the area south of 60th Street. If you’re staying in Manhattan, it’s often easier to pick up the car on the day you leave the city. Long Island, the Hamptons, the Hudson Valley and the Catskills are all popular drives.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get to the rental cars at JFK?",
+      "a": "Take the AirTrain JFK to the Federal Circle station, where the rental companies are based. The AirTrain is free between the terminals and Federal Circle."
+    },
+    {
+      "q": "Can drivers under 25 rent a car in New York?",
+      "a": "New York State law requires rental companies to rent to drivers aged 18 and over who meet their other conditions, but young drivers usually pay a surcharge. See our <a href=\"/young-driver-car-hire/\">young driver guide</a>."
+    }
+  ],
+  "cardText": "Collect at Federal Circle via AirTrain, then head for Long Island or upstate.",
+  "related": [
+    "airport-car-hire",
+    "airport-car-hire/lax",
+    "car-hire-excess-insurance"
+  ],
+  "keywords": [
+    "jfk",
+    "jfk car hire",
+    "jfk car rental"
+  ],
+  "ctaSearch": false
+}

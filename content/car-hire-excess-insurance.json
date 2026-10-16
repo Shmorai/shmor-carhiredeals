@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-16",
+  "slug": "car-hire-excess-insurance",
+  "nav": "Insurance",
+  "navOrder": 7,
+  "title": "Car Hire Excess Insurance: How Rental Cover Works",
+  "description": "Car hire excess insurance and rental car cover explained: CDW, the excess or deductible, desk vs standalone cover, deposits and US liability insurance.",
+  "eyebrow": "Rental car insurance explained",
+  "h1": "Car hire excess insurance explained",
+  "intro": "Insurance is where a cheap rental can get expensive. Here’s what the terms mean and the main ways to reduce what you’d pay if the car is damaged.",
+  "search": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563013544-824ae1b704d3",
+    "alt": "Person holding a payment card while using a laptop",
+    "credit": "rupixen",
+    "creditUrl": "https://unsplash.com/@rupixen"
+  },
+  "sections": [
+    {
+      "h2": "What is the excess?",
+      "html": "<p>Most rental prices outside the US include basic damage and theft cover, often called a <strong>Collision Damage Waiver (CDW)</strong> and theft protection. But you remain responsible for the first part of any claim: the <strong>excess</strong> (called the <strong>deductible</strong> in the US). It can run to well over a thousand pounds, dollars or euros, and is usually held as a deposit on your credit card.</p>"
+    },
+    {
+      "h2": "Ways to reduce the excess",
+      "html": "<ul><li><strong>Cover at the rental desk</strong> (often called super CDW or zero-excess cover): reduces the excess to zero or a small amount and usually lowers the deposit. Simple, but often the most expensive option.</li><li><strong>Cover from the broker</strong> when you book: you usually pay the rental company first if there’s damage, then claim it back.</li><li><strong>Standalone car hire excess insurance</strong> from a specialist insurer, per trip or annual: often much cheaper, but you still pay the rental company and claim back, and the desk will still hold the full deposit.</li></ul><p>Check what each option covers: tyres, windscreens, roofs, undersides, keys and towing are common exclusions.</p>"
+    },
+    {
+      "h2": "Renting in the US",
+      "html": "<p>US rental prices often don’t include damage cover. The rental company will offer a <strong>Loss Damage Waiver (LDW/CDW)</strong> and <strong>supplemental liability insurance</strong>. Your own car insurance policy or the credit card you pay with may already cover rental cars; check before you travel. Packages booked from the UK or Europe for US rentals often include these covers in the price.</p>"
+    },
+    {
+      "h2": "Deposits and inspections",
+      "html": "<p>Bring a credit card in the main driver’s name: many companies don’t accept debit cards for the deposit, or ask for more checks if you use one. Before driving away, photograph or film the car, including wheels and windscreen, and make sure any existing damage is on the paperwork. Do the same when you return it.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to buy the insurance at the rental desk?",
+      "a": "No, it’s optional if your rental already includes the legally required cover. But if you decline it, you’re liable for the excess and the company will usually hold a larger deposit on your card."
+    },
+    {
+      "q": "Is standalone excess insurance worth it?",
+      "a": "It’s often much cheaper than desk cover, especially as an annual policy if you rent several times a year. The trade-off is that you pay the rental company first and claim the money back."
+    }
+  ],
+  "related": [
+    "young-driver-car-hire",
+    "compare",
+    "car-rental-companies"
+  ],
+  "ctaSearch": false,
+  "keywords": [
+    "insurance",
+    "excess",
+    "cdw",
+    "ldw",
+    "deductible",
+    "deposit",
+    "super cdw",
+    "zero excess"
+  ]
+}

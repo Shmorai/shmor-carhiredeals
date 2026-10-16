@@ -1,15 +1,315 @@
 {
+  "updated": "2026-10-16",
   "slug": "",
-  "title": "CarHireDeals: Car hire and rental car deals compared across ",
-  "description": "Car hire and rental car deals compared across the major brands, at airports and local depots in the USA, UK, Europe and worldwide. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "CarHireDeals",
-  "intro": "Car hire and rental car deals compared across the major brands, at airports and local depots in the USA, UK, Europe and worldwide.",
-  "related": [],
+  "title": "CarHireDeals: Compare Car Hire & Rental Car Deals",
+  "description": "Compare car hire and rental car deals from Hertz, Avis, Enterprise, Sixt, Europcar and more at airports and local depots across the USA, UK and Europe.",
+  "eyebrow": "Car hire & rental car comparison",
+  "h1": "Car hire deals at every airport and depot",
+  "h1Html": "Car hire deals at every<br><span class=\"hl\">airport and depot.</span>",
+  "intro": "One search lines up the big comparison sites and rental brands (Hertz, Avis, Enterprise, Sixt, Europcar and more) for the same pick-up, so you can find the best price fast.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "chips": [
+    {
+      "label": "Orlando MCO",
+      "slug": "airport-car-hire/orlando"
+    },
+    {
+      "label": "LAX",
+      "slug": "airport-car-hire/lax"
+    },
+    {
+      "label": "Heathrow",
+      "slug": "airport-car-hire/heathrow"
+    },
+    {
+      "label": "Malaga",
+      "slug": "airport-car-hire/malaga"
+    },
+    {
+      "label": "Faro",
+      "slug": "airport-car-hire/faro"
+    },
+    {
+      "label": "One-way",
+      "slug": "one-way-car-hire"
+    },
+    {
+      "label": "Van hire",
+      "slug": "van-hire"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1572401611152-cf63d874b019",
+    "alt": "Red hatchback driving on an open asphalt road",
+    "credit": "Maksim Tarasov",
+    "creditUrl": "https://unsplash.com/@awsmsky"
+  },
+  "blocks": [
+    {
+      "type": "providers",
+      "position": "top"
+    },
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Comparison sites + brands",
+          "text": "in one search"
+        },
+        {
+          "icon": "plane",
+          "title": "Airport & local depots",
+          "text": "worldwide"
+        },
+        {
+          "icon": "wallet",
+          "title": "Free to use,",
+          "text": "no booking fees"
+        },
+        {
+          "icon": "globe",
+          "title": "USA, UK & Europe",
+          "text": "sites in your currency"
+        }
+      ]
+    },
+    {
+      "type": "places",
+      "position": "top",
+      "title": "Top airport car hire picks",
+      "intro": "The world’s busiest car hire airports for holidays and road trips. Tap one for a pick-up guide, or compare every site for your dates.",
+      "more": {
+        "title": "All airports",
+        "slug": "airport-car-hire"
+      },
+      "items": [
+        {
+          "title": "Heathrow car hire",
+          "place": "London, England",
+          "code": "LHR",
+          "q": "LHR",
+          "region": "uk",
+          "badge": "UK’s busiest",
+          "tags": [
+            "4 terminals",
+            "M4 / M25",
+            "ULEZ zone"
+          ],
+          "text": "Shuttle-served depots for every big brand, minutes from all four terminals.",
+          "slug": "airport-car-hire/heathrow"
+        },
+        {
+          "title": "Gatwick car hire",
+          "place": "West Sussex, England",
+          "code": "LGW",
+          "q": "LGW",
+          "region": "uk",
+          "tags": [
+            "North & South",
+            "M23",
+            "South coast"
+          ],
+          "text": "Easy access to the M23 for Brighton, the South Downs and the south coast.",
+          "slug": "airport-car-hire/gatwick"
+        },
+        {
+          "title": "LAX car rental",
+          "place": "Los Angeles, California",
+          "code": "LAX",
+          "q": "LAX",
+          "region": "us",
+          "badge": "Road-trip start",
+          "tags": [
+            "Pacific Coast Hwy",
+            "Big brands",
+            "Shuttles"
+          ],
+          "text": "Every major brand, close to the freeways for Malibu, Big Sur and the desert.",
+          "slug": "airport-car-hire/lax"
+        },
+        {
+          "title": "Orlando car rental",
+          "place": "Orlando, Florida",
+          "code": "MCO",
+          "q": "MCO",
+          "region": "us",
+          "badge": "Most popular",
+          "tags": [
+            "Theme parks",
+            "Toll roads",
+            "Family cars"
+          ],
+          "text": "In-terminal rental counters and a huge choice of family cars and minivans.",
+          "slug": "airport-car-hire/orlando"
+        },
+        {
+          "title": "JFK car rental",
+          "place": "Queens, New York",
+          "code": "JFK",
+          "q": "JFK",
+          "region": "us",
+          "tags": [
+            "AirTrain",
+            "Long Island",
+            "Upstate"
+          ],
+          "text": "Collect at Federal Circle via AirTrain, then head for Long Island or upstate.",
+          "slug": "airport-car-hire/new-york-jfk"
+        },
+        {
+          "title": "Malaga car hire",
+          "place": "Costa del Sol, Spain",
+          "code": "AGP",
+          "q": "AGP",
+          "region": "eu",
+          "badge": "Sun favourite",
+          "tags": [
+            "Costa del Sol",
+            "Andalucía",
+            "Fuel policy"
+          ],
+          "text": "Gateway to the Costa del Sol, Ronda and Granada, with lots of local suppliers.",
+          "slug": "airport-car-hire/malaga"
+        },
+        {
+          "title": "Faro car hire",
+          "place": "Algarve, Portugal",
+          "code": "FAO",
+          "q": "FAO",
+          "region": "eu",
+          "tags": [
+            "Algarve",
+            "Beaches",
+            "Electronic tolls"
+          ],
+          "text": "The easiest way to explore Algarve beaches, cliffs and villages at your own pace.",
+          "slug": "airport-car-hire/faro"
+        },
+        {
+          "title": "Dubai car rental",
+          "place": "Dubai, UAE",
+          "code": "DXB",
+          "q": "DXB",
+          "tags": [
+            "T1 & T3",
+            "Salik tolls",
+            "Desert drives"
+          ],
+          "text": "International brands in arrivals, wide roads and Salik toll gates to know about.",
+          "slug": "airport-car-hire/dubai"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "position": "top",
+      "title": "Pick up your way",
+      "items": [
+        {
+          "title": "Local depots",
+          "text": "City and neighbourhood branches, often cheaper than airports",
+          "slug": "local-car-hire",
+          "badge": "Save on airport fees"
+        },
+        {
+          "title": "One-way hire",
+          "text": "Collect in one place, drop off in another",
+          "slug": "one-way-car-hire"
+        },
+        {
+          "title": "Van hire",
+          "text": "Moving day, IKEA runs and cargo vans",
+          "slug": "van-hire"
+        },
+        {
+          "title": "Young drivers",
+          "text": "Age rules and surcharges explained",
+          "slug": "young-driver-car-hire"
+        },
+        {
+          "title": "Excess insurance",
+          "text": "Cut the cost of cover at the desk",
+          "slug": "car-hire-excess-insurance"
+        }
+      ]
+    },
+    {
+      "type": "brands",
+      "title": "Rental brands we compare",
+      "intro": "Book through a comparison site or direct with the brand. Each card opens the brand’s own site for your region."
+    },
+    {
+      "type": "steps",
+      "title": "How CarHireDeals works",
+      "items": [
+        {
+          "icon": "pin",
+          "title": "Tell us where and when",
+          "text": "An airport, city or depot, plus your pick-up and drop-off dates and times."
+        },
+        {
+          "icon": "search",
+          "title": "We line up every site",
+          "text": "KAYAK and Expedia open with your trip filled in. Brokers and rental brands open in one click."
+        },
+        {
+          "icon": "tag",
+          "title": "Compare the real total",
+          "text": "Check the same car class, insurance excess, fuel policy and mileage on each site."
+        },
+        {
+          "icon": "check",
+          "title": "Book direct, no fees",
+          "text": "You book with the site you choose. We never add a fee or take your payment."
+        }
+      ]
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use CarHireDeals?",
-      "html": "<p>Car hire and rental car deals compared across the major brands, at airports and local depots in the USA, UK, Europe and worldwide.</p>"
+      "h2": "Why compare car hire?",
+      "html": "<p>The same car on the same dates can cost very different amounts depending on where you book. Comparison sites and brokers buy from many suppliers at once, while the rental brands sometimes have member rates or offers of their own. CarHireDeals puts both in one place, so checking three or four sites takes a couple of minutes instead of an evening.</p><p>Whether you call it <strong>car hire</strong> or a <strong>rental car</strong>, the rules for getting a good deal are the same: compare like for like, check what is included and read the fuel and insurance terms before you pay.</p>"
+    },
+    {
+      "h2": "Airport or local depot?",
+      "html": "<p>Airport pick-up is the most convenient after a flight, and airports have the biggest choice of brands and cars. But airport locations often add an airport or concession fee to the price. If you don’t need the car straight away, a <a href=\"/local-car-hire/\">city or neighbourhood depot</a> can work out cheaper, especially for longer rentals.</p>"
+    },
+    {
+      "h2": "What to check before you book",
+      "html": "<ul><li><strong>Insurance excess</strong> (deductible): how much you pay if the car is damaged, and whether to reduce it. See our <a href=\"/car-hire-excess-insurance/\">excess insurance guide</a>.</li><li><strong>Fuel policy</strong>: “full to full” is usually the fairest. Pre-paid fuel can cost more if you return the car with fuel left.</li><li><strong>Mileage</strong>: most rentals include unlimited mileage, but not all.</li><li><strong>Deposit</strong>: most companies hold a deposit on a credit card in the main driver’s name.</li><li><strong>Extra drivers, young drivers and one-way fees</strong>: these can add a lot to the total.</li></ul>"
     }
+  ],
+  "faqs": [
+    {
+      "q": "Is CarHireDeals free?",
+      "a": "Yes. CarHireDeals is free to use and never adds a booking fee. You book directly with the site you choose."
+    },
+    {
+      "q": "Does CarHireDeals show live prices?",
+      "a": "We don’t store prices ourselves. Each button opens that site’s own search, so the prices you see are always live, straight from the provider."
+    },
+    {
+      "q": "Which companies can I compare?",
+      "a": "Comparison sites and brokers such as KAYAK, Expedia, Rentalcars.com, Discover Cars and Skyscanner, plus rental brands including Hertz, Avis, Enterprise, SIXT, Europcar, Budget, Alamo, National, Thrifty, Dollar and Green Motion. Availability depends on the country."
+    },
+    {
+      "q": "Is car hire the same as car rental?",
+      "a": "Yes. “Car hire” is the usual term in the UK and Ireland, while “car rental” or “rental car” is used in the US. The booking process is the same."
+    }
+  ],
+  "related": [
+    "airport-car-hire",
+    "local-car-hire",
+    "car-rental-companies"
+  ],
+  "latestPosts": 0,
+  "ctaSearch": false,
+  "keywords": [
+    "car hire",
+    "car rental",
+    "rental car deals"
   ]
 }

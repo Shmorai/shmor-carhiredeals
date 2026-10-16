@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-16",
+  "slug": "local-car-hire",
+  "nav": "Local depots",
+  "navOrder": 3,
+  "title": "Local Car Hire: Rental Cars from City & Town Depots",
+  "description": "Compare local car hire from city-centre and neighbourhood rental depots. Why local branches can be cheaper than airports, and how to find one near you.",
+  "eyebrow": "City and neighbourhood car rental",
+  "h1": "Local car hire near you",
+  "intro": "Rent from a city-centre or neighbourhood branch instead of the airport. Type your town, city, station or postcode (zip code) to compare.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1616036902568-fa623d8f0c0a",
+    "alt": "People walking along a European city street lined with old buildings",
+    "credit": "Alice",
+    "creditUrl": "https://unsplash.com/@thewonderalice"
+  },
+  "blocks": [
+    {
+      "type": "brands",
+      "title": "Brands with big local networks",
+      "intro": "Enterprise is known for its large network of neighbourhood branches, but most brands have city and railway-station locations too."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why choose a local depot?",
+      "html": "<ul><li><strong>Often cheaper:</strong> local branches don’t usually add the airport fees that many airport locations include.</li><li><strong>Only pay for the days you drive:</strong> if you’re spending the first days of a trip in a city, pick the car up when you leave.</li><li><strong>Handy for repairs and one-off trips:</strong> a replacement car while yours is in the garage, a weekend away or a day of errands.</li></ul>"
+    },
+    {
+      "h2": "Things to check",
+      "html": "<p>Local branches usually keep shorter opening hours than airports, and many close on Sunday or early on Saturday. Check when you can collect and return the car, and whether there’s a key drop for out-of-hours returns. Some brands offer to pick you up from home or work when you rent from a local branch; ask the branch.</p>"
+    },
+    {
+      "h2": "How to search",
+      "html": "<p>Type a city, neighbourhood, railway station or postcode/zip code into the search above. On comparison sites, use the map or “distance” filter to see the depots nearest to you.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it cheaper to rent a car away from the airport?",
+      "a": "It often is, because many airports charge fees that rental companies pass on. It depends on the dates and location, so compare both."
+    },
+    {
+      "q": "Can I return a car to a local depot when it’s closed?",
+      "a": "Some branches have a key drop box for out-of-hours returns, but you may stay responsible for the car until the branch opens and checks it. Ask when you collect the car."
+    }
+  ],
+  "related": [
+    "one-way-car-hire",
+    "van-hire",
+    "car-rental-companies"
+  ],
+  "ctaSearch": false,
+  "keywords": [
+    "near me",
+    "downtown",
+    "city centre",
+    "train station car hire"
+  ]
+}

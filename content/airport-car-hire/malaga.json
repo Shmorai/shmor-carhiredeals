@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-16",
+  "slug": "airport-car-hire/malaga",
+  "title": "Malaga Car Hire: Compare Rental Cars at Malaga Airport",
+  "description": "Compare Malaga Airport car hire from international brands and local Costa del Sol suppliers. Pick-up tips, fuel policies and driving in Andalucía.",
+  "eyebrow": "Málaga-Costa del Sol (AGP)",
+  "h1": "Malaga car hire",
+  "intro": "Compare car hire at Malaga Airport across the comparison sites, international brands and local suppliers, for the Costa del Sol and beyond.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare data-region=\"eu\" role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"AGP\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1602088113235-229c19758e9f",
+    "alt": "Rows of beach umbrellas and sunbeds by the sea",
+    "credit": "David Vives",
+    "creditUrl": "https://unsplash.com/@davidvives"
+  },
+  "blocks": [
+    {
+      "type": "compare",
+      "position": "top",
+      "title": "Compare malaga car hire on every site",
+      "intro": "Set your dates and times above, then open each site to see its live prices for the same pick-up."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Picking up your car at Malaga Airport",
+      "html": "<p>Malaga is one of Europe’s busiest car hire airports. Some companies have desks in the arrivals area with cars in the airport car parks; many others, including several low-cost local suppliers, are off-airport and take you to their depot by shuttle bus. Your voucher shows where to meet. Off-airport can mean queues at busy times, so allow extra time.</p>"
+    },
+    {
+      "h2": "Fuel policies and extras",
+      "html": "<p>Fuel policy is the biggest thing to check at Malaga. A <strong>full to full</strong> policy (collect it full, return it full) is usually the fairest. With “full to empty” you pay up front for a tank of fuel, often with a service charge, and get no refund for fuel you don’t use. Also check the excess and the deposit, as some local suppliers hold a large deposit unless you buy their own cover.</p>"
+    },
+    {
+      "h2": "Driving on the Costa del Sol",
+      "html": "<p>Spain drives on the <strong>right</strong>. The coast road links Malaga with Marbella, Fuengirola and Nerja, and inland routes lead to Ronda, Granada, Córdoba and Seville. The AP-7 toll motorway runs parallel to the free coastal road for part of the way.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is cheap car hire at Malaga worth it?",
+      "a": "It can be, but compare the total cost. A low headline price can come with a full-to-empty fuel policy, a large deposit or expensive insurance at the desk. Compare like for like before you book."
+    }
+  ],
+  "cardText": "Gateway to the Costa del Sol, Ronda and Granada, with lots of local suppliers.",
+  "related": [
+    "airport-car-hire",
+    "airport-car-hire/faro",
+    "car-hire-excess-insurance"
+  ],
+  "keywords": [
+    "agp",
+    "agp car hire",
+    "agp car rental"
+  ],
+  "ctaSearch": false
+}

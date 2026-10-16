@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-16",
+  "slug": "airport-car-hire/faro",
+  "title": "Faro Car Hire: Compare Rental Cars at Faro Airport",
+  "description": "Compare Faro Airport car hire across international brands and Algarve suppliers. Pick-up tips, electronic motorway tolls and road trips along the Algarve.",
+  "eyebrow": "Faro Airport (FAO), Algarve",
+  "h1": "Faro car hire",
+  "intro": "Compare car hire at Faro Airport across the comparison sites, big brands and local Algarve suppliers.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare data-region=\"eu\" role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"FAO\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ponta_da_Piedade_Algarve_Portugal.jpg/1280px-Ponta_da_Piedade_Algarve_Portugal.jpg",
+    "alt": "Sea stacks and cliffs at Ponta da Piedade on the Algarve coast",
+    "credit": "Dronepicr, CC BY 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ponta_da_Piedade_Algarve_Portugal.jpg"
+  },
+  "blocks": [
+    {
+      "type": "compare",
+      "position": "top",
+      "title": "Compare faro car hire on every site",
+      "intro": "Set your dates and times above, then open each site to see its live prices for the same pick-up."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Picking up your car at Faro Airport",
+      "html": "<p>Faro is the main airport for the Algarve. Some rental companies have desks in the terminal’s arrivals area and others are a short shuttle ride away. Check your voucher for the meeting point.</p>"
+    },
+    {
+      "h2": "Tolls in Portugal",
+      "html": "<p>Portugal uses <strong>electronic tolls</strong> on many motorways, with no booths to pay at. Rental companies usually offer a toll device (transponder) for a fee, which charges tolls you use automatically. Ask about it at pick-up, as paying tolls afterwards without one is awkward for visitors.</p>"
+    },
+    {
+      "h2": "Driving in the Algarve",
+      "html": "<p>Portugal drives on the <strong>right</strong>. With a car you can reach Lagos and Ponta da Piedade, Sagres and the wild west coast, the old town of Tavira and inland villages like Monchique and Silves. Some beach car parks fill early in summer.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a toll transponder for Algarve car hire?",
+      "a": "It’s strongly recommended if you’ll use the motorways, as Portugal’s electronic tolls have no booths. Your rental company can rent you one for a fee."
+    }
+  ],
+  "cardText": "The easiest way to explore Algarve beaches, cliffs and villages at your own pace.",
+  "related": [
+    "airport-car-hire",
+    "airport-car-hire/malaga",
+    "car-hire-excess-insurance"
+  ],
+  "keywords": [
+    "fao",
+    "fao car hire",
+    "fao car rental"
+  ],
+  "ctaSearch": false
+}

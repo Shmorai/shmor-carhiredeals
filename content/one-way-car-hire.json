@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-16",
+  "slug": "one-way-car-hire",
+  "nav": "One-way",
+  "navOrder": 5,
+  "title": "One-Way Car Hire: Pick Up Here, Drop Off There",
+  "description": "How one-way car hire and one-way car rental work: drop-off fees, cross-border rules and tips for road trips like LA to San Francisco or Lisbon to Faro.",
+  "eyebrow": "One-way car rental",
+  "h1": "One-way car hire",
+  "intro": "Collect your car in one city and drop it off in another. Search your pick-up location to compare, then set a different drop-off on the site you choose.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bigsur_2023.jpg/1280px-Bigsur_2023.jpg",
+    "alt": "The Big Sur coast road in California, looking north to Bixby Creek Bridge",
+    "credit": "Veryniceusername, CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bigsur_2023.jpg"
+  },
+  "sections": [
+    {
+      "h2": "How one-way rentals work",
+      "html": "<p>Most big brands let you return the car to a different branch, often for a <strong>one-way fee</strong> (sometimes called a drop fee). The fee depends on the route and the season: it can be small or even free between busy locations in the same country, and much higher for long distances or remote branches.</p><p>On the comparison sites, tick “return to a different location” (or similar) and enter your drop-off city to see the full price including the fee.</p>"
+    },
+    {
+      "h2": "Crossing borders",
+      "html": "<p>Taking a rental car into another country needs the rental company’s permission. Many companies charge a cross-border fee, some restrict certain countries or car types, and international one-way returns (for example Spain to France) can be very expensive because the car has to be brought back. Declare your full route when you book.</p>"
+    },
+    {
+      "h2": "Classic one-way road trips",
+      "html": "<ul><li>Los Angeles to San Francisco along the Pacific Coast Highway.</li><li>Los Angeles or Phoenix to Las Vegas.</li><li>Miami to Orlando, or down to the Florida Keys and back.</li><li>Edinburgh to Inverness via the Highlands.</li><li>Lisbon to the Algarve.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is one-way car hire more expensive?",
+      "a": "The rental company has to get the car back to where it’s needed, so it charges a one-way or drop fee. Popular routes between big cities tend to cost less."
+    }
+  ],
+  "related": [
+    "airport-car-hire",
+    "local-car-hire",
+    "car-rental-companies"
+  ],
+  "ctaSearch": false,
+  "keywords": [
+    "one way",
+    "drop off",
+    "different location",
+    "road trip"
+  ]
+}

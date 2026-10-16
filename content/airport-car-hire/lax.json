@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-16",
+  "slug": "airport-car-hire/lax",
+  "title": "LAX Car Rental: Compare Rental Cars at LAX",
+  "description": "Compare LAX car rental from Hertz, Avis, Enterprise, Sixt, Alamo, National and more. How pick-up works at Los Angeles airport and tips for driving in LA.",
+  "eyebrow": "Los Angeles International (LAX)",
+  "h1": "LAX car rental",
+  "intro": "Compare rental cars at LAX across the comparison sites and big brands, then hit the Pacific Coast Highway.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare data-region=\"us\" role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"LAX\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/LAX_Theme_Building_and_moon_from_northwest_2016-07-21.jpg/1280px-LAX_Theme_Building_and_moon_from_northwest_2016-07-21.jpg",
+    "alt": "The Theme Building at Los Angeles International Airport with the moon above",
+    "credit": "Junkyardsparkle, CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:LAX_Theme_Building_and_moon_from_northwest_2016-07-21.jpg"
+  },
+  "blocks": [
+    {
+      "type": "compare",
+      "position": "top",
+      "title": "Compare lax car rental on every site",
+      "intro": "Set your dates and times above, then open each site to see its live prices for the same pick-up."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Picking up your rental car at LAX",
+      "html": "<p>Rental companies at LAX don’t have their cars at the terminals. LAX has been moving rental cars into a consolidated rent-a-car facility (ConRAC) linked to the terminals by the Automated People Mover train, and some companies use their own shuttles from the arrivals level. Check LAX’s official website and your booking confirmation before you travel to see how to reach your rental company on your dates.</p>"
+    },
+    {
+      "h2": "Driving in Los Angeles",
+      "html": "<p>LA is built for driving, but traffic on the freeways can be heavy at rush hour. Popular drives from LAX include the Pacific Coast Highway to Malibu and on to Big Sur, Palm Springs and Joshua Tree, and Las Vegas (around four hours or more, depending on traffic). If you’re planning to drive one way to San Francisco or Las Vegas, compare <a href=\"/one-way-car-hire/\">one-way rental</a> fees as well.</p>"
+    },
+    {
+      "h2": "Tips for LAX car rental",
+      "html": "<ul><li>Allow extra time to return the car and get back to the terminal for your flight.</li><li>A convertible is a classic choice for the coast, but check the boot (trunk) space for your luggage.</li><li>California has some toll roads in Orange County; ask about the rental company’s toll programme.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are the rental car counters inside LAX terminals?",
+      "a": "No. You travel from the terminal to your rental company, either by the airport’s rental car connection or a company shuttle. Check LAX’s website and your booking for the current arrangements."
+    }
+  ],
+  "cardText": "Every major brand, close to the freeways for Malibu, Big Sur and the desert.",
+  "related": [
+    "airport-car-hire",
+    "airport-car-hire/orlando",
+    "car-hire-excess-insurance"
+  ],
+  "keywords": [
+    "lax",
+    "lax car hire",
+    "lax car rental"
+  ],
+  "ctaSearch": false
+}

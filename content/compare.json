@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-16",
+  "slug": "compare",
+  "nav": "Compare",
+  "navOrder": 1,
+  "title": "Compare Car Hire Prices: Every Site in One Search",
+  "description": "Compare car hire prices for the same trip on KAYAK, Expedia, Rentalcars.com, Discover Cars and the big rental brands. Free tool, no booking fees.",
+  "eyebrow": "Free car hire comparison tool",
+  "h1": "Compare car hire on every site",
+  "intro": "Enter your trip once. KAYAK and Expedia open with your pick-up and dates filled in; the brokers and rental brands open in one click.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg/1280px-Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg",
+    "alt": "Rows of rental cars in the car hire parking area at Florence Airport",
+    "credit": "Mattes, public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg"
+  },
+  "blocks": [
+    {
+      "type": "compare",
+      "position": "top"
+    },
+    {
+      "type": "steps",
+      "title": "How CarHireDeals works",
+      "items": [
+        {
+          "icon": "pin",
+          "title": "Tell us where and when",
+          "text": "An airport, city or depot, plus your pick-up and drop-off dates and times."
+        },
+        {
+          "icon": "search",
+          "title": "We line up every site",
+          "text": "KAYAK and Expedia open with your trip filled in. Brokers and rental brands open in one click."
+        },
+        {
+          "icon": "tag",
+          "title": "Compare the real total",
+          "text": "Check the same car class, insurance excess, fuel policy and mileage on each site."
+        },
+        {
+          "icon": "check",
+          "title": "Book direct, no fees",
+          "text": "You book with the site you choose. We never add a fee or take your payment."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Getting a like-for-like comparison",
+      "html": "<p>Check that each site shows the <strong>same car class</strong> (for example “compact” or “intermediate SUV”), the same pick-up location and the same times. Then compare the <strong>final total</strong>, including taxes and fees, and the insurance excess, fuel policy and mileage limit. A slightly higher price with a lower excess or a free cancellation policy can be the better deal.</p><p>Brokers and rental brands that don’t accept pre-filled searches open on their own search page, where you just type your trip again.</p>"
+    },
+    {
+      "h2": "Tips that often save money",
+      "html": "<ul><li>Try a local depot as well as the airport: airport locations often add fees.</li><li>Shift your pick-up or drop-off time: rentals are usually priced in 24-hour periods, so returning an hour late can add a whole day.</li><li>Log in to brand loyalty programmes: several show member rates or skip-the-counter pick-up.</li><li>Book a free-cancellation rate early and check again nearer the date.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why do only some sites open with my trip filled in?",
+      "a": "KAYAK and Expedia accept a pick-up place and dates in their search links. Other sites need their own location codes, so they open on their search page instead."
+    },
+    {
+      "q": "What does “Sites in” change?",
+      "a": "It picks the version of each site for your country, such as kayak.com for the USA, kayak.co.uk for the UK or kayak.ie for Europe, so prices show in dollars, pounds or euros."
+    },
+    {
+      "q": "Do you keep my search details?",
+      "a": "Your search is handled in your browser and passed to the site you open. CarHireDeals doesn’t need an account or personal details. See the Shmor.ai privacy policy for more."
+    }
+  ],
+  "related": [
+    "airport-car-hire",
+    "car-hire-excess-insurance",
+    "car-rental-companies"
+  ],
+  "ctaSearch": false
+}

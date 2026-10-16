@@ -1,0 +1,173 @@
+{
+  "updated": "2026-10-16",
+  "slug": "airport-car-hire",
+  "nav": "Airports",
+  "navOrder": 2,
+  "title": "Airport Car Hire: Compare Rental Cars at Airports",
+  "description": "Airport car hire and rental car guides for Heathrow, Gatwick, LAX, Orlando, JFK, Malaga, Faro and Dubai. Compare every brand for your flight times.",
+  "eyebrow": "Airport car rental",
+  "h1": "Airport car hire, compared",
+  "intro": "Pick up your rental car as soon as you land. Choose an airport for a pick-up guide, or search any airport worldwide by name or code.",
+  "heroHtml": "<form class=\"ch-form\" action=\"/compare/\" data-compare role=\"search\">\n<label class=\"f-loc\"><span>Pick-up location</span><input name=\"q\" required placeholder=\"Airport, city or depot, e.g. LAX or Malaga\" value=\"\" autocomplete=\"off\"></label>\n<label class=\"f-date\"><span>Pick-up date</span><input type=\"date\" name=\"in\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t1\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<label class=\"f-date\"><span>Drop-off date</span><input type=\"date\" name=\"out\"></label>\n<label class=\"f-time\"><span>Time</span><select name=\"t2\"><option value=\"6\">06:00</option><option value=\"7\">07:00</option><option value=\"8\">08:00</option><option value=\"9\">09:00</option><option value=\"10\" selected>10:00</option><option value=\"11\">11:00</option><option value=\"12\">12:00</option><option value=\"13\">13:00</option><option value=\"14\">14:00</option><option value=\"15\">15:00</option><option value=\"16\">16:00</option><option value=\"17\">17:00</option><option value=\"18\">18:00</option><option value=\"19\">19:00</option><option value=\"20\">20:00</option><option value=\"21\">21:00</option><option value=\"22\">22:00</option></select></label>\n<button type=\"submit\">Search deals</button>\n<div class=\"ch-opts\"><label class=\"ch-agesel\"><span>Driver age</span><select name=\"age\"><option value=\"18\">18–20</option><option value=\"21\">21–24</option><option value=\"25\" selected>25–69</option><option value=\"70\">70+</option></select></label>\n<fieldset class=\"ch-region\"><legend>Sites in</legend><label><input type=\"radio\" name=\"region\" value=\"us\"><span>USA $</span></label><label><input type=\"radio\" name=\"region\" value=\"uk\"><span>UK £</span></label><label><input type=\"radio\" name=\"region\" value=\"eu\"><span>Europe €</span></label></fieldset></div>\n</form>",
+  "search": false,
+  "image": {
+    "src": "https://images.unsplash.com/photo-1549894595-4698795b38ee",
+    "alt": "Traveller walking through a bright airport terminal with luggage",
+    "credit": "Sergey Zolkin",
+    "creditUrl": "https://unsplash.com/@szolkin"
+  },
+  "blocks": [
+    {
+      "type": "places",
+      "position": "top",
+      "title": "Popular car hire airports",
+      "items": [
+        {
+          "title": "Heathrow car hire",
+          "place": "London, England",
+          "code": "LHR",
+          "q": "LHR",
+          "region": "uk",
+          "badge": "UK’s busiest",
+          "tags": [
+            "4 terminals",
+            "M4 / M25",
+            "ULEZ zone"
+          ],
+          "text": "Shuttle-served depots for every big brand, minutes from all four terminals.",
+          "slug": "airport-car-hire/heathrow"
+        },
+        {
+          "title": "Gatwick car hire",
+          "place": "West Sussex, England",
+          "code": "LGW",
+          "q": "LGW",
+          "region": "uk",
+          "tags": [
+            "North & South",
+            "M23",
+            "South coast"
+          ],
+          "text": "Easy access to the M23 for Brighton, the South Downs and the south coast.",
+          "slug": "airport-car-hire/gatwick"
+        },
+        {
+          "title": "LAX car rental",
+          "place": "Los Angeles, California",
+          "code": "LAX",
+          "q": "LAX",
+          "region": "us",
+          "badge": "Road-trip start",
+          "tags": [
+            "Pacific Coast Hwy",
+            "Big brands",
+            "Shuttles"
+          ],
+          "text": "Every major brand, close to the freeways for Malibu, Big Sur and the desert.",
+          "slug": "airport-car-hire/lax"
+        },
+        {
+          "title": "Orlando car rental",
+          "place": "Orlando, Florida",
+          "code": "MCO",
+          "q": "MCO",
+          "region": "us",
+          "badge": "Most popular",
+          "tags": [
+            "Theme parks",
+            "Toll roads",
+            "Family cars"
+          ],
+          "text": "In-terminal rental counters and a huge choice of family cars and minivans.",
+          "slug": "airport-car-hire/orlando"
+        },
+        {
+          "title": "JFK car rental",
+          "place": "Queens, New York",
+          "code": "JFK",
+          "q": "JFK",
+          "region": "us",
+          "tags": [
+            "AirTrain",
+            "Long Island",
+            "Upstate"
+          ],
+          "text": "Collect at Federal Circle via AirTrain, then head for Long Island or upstate.",
+          "slug": "airport-car-hire/new-york-jfk"
+        },
+        {
+          "title": "Malaga car hire",
+          "place": "Costa del Sol, Spain",
+          "code": "AGP",
+          "q": "AGP",
+          "region": "eu",
+          "badge": "Sun favourite",
+          "tags": [
+            "Costa del Sol",
+            "Andalucía",
+            "Fuel policy"
+          ],
+          "text": "Gateway to the Costa del Sol, Ronda and Granada, with lots of local suppliers.",
+          "slug": "airport-car-hire/malaga"
+        },
+        {
+          "title": "Faro car hire",
+          "place": "Algarve, Portugal",
+          "code": "FAO",
+          "q": "FAO",
+          "region": "eu",
+          "tags": [
+            "Algarve",
+            "Beaches",
+            "Electronic tolls"
+          ],
+          "text": "The easiest way to explore Algarve beaches, cliffs and villages at your own pace.",
+          "slug": "airport-car-hire/faro"
+        },
+        {
+          "title": "Dubai car rental",
+          "place": "Dubai, UAE",
+          "code": "DXB",
+          "q": "DXB",
+          "tags": [
+            "T1 & T3",
+            "Salik tolls",
+            "Desert drives"
+          ],
+          "text": "International brands in arrivals, wide roads and Salik toll gates to know about.",
+          "slug": "airport-car-hire/dubai"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "In-terminal or shuttle?",
+      "html": "<p>At some airports the rental counters are in or next to the terminal and the cars are in a nearby garage. At others, rental companies work from depots a short shuttle ride away. Both are normal: your booking confirmation says which applies, and where to meet the shuttle. If you have small children or lots of luggage, it’s worth checking before you book.</p>"
+    },
+    {
+      "h2": "Airport fees and opening hours",
+      "html": "<p>Airport locations often include an airport or concession fee in the price. Check the counter’s opening hours if your flight lands late at night: if the desk is closed you may not be able to collect the car, and some companies charge an out-of-hours fee. Always add your flight number to the booking so the company knows if you’re delayed.</p>"
+    },
+    {
+      "h2": "Searching by airport code",
+      "html": "<p>You can search by name (“Orlando Airport”) or by the three-letter airport code (“MCO”). Codes are the most reliable way to make sure the comparison sites pick the airport rather than a city-centre depot.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is airport car hire more expensive?",
+      "a": "Often a little, because many airports charge rental companies a fee that is passed on in the price. The convenience can still be worth it, especially after a long flight. Compare with a nearby local depot to see the difference."
+    },
+    {
+      "q": "What if my flight is delayed?",
+      "a": "Add your flight number when you book. Most airport counters hold the car for delayed flights, but policies vary, so check the terms and contact the company if you’ll be very late."
+    }
+  ],
+  "related": [
+    "local-car-hire",
+    "one-way-car-hire",
+    "car-hire-excess-insurance"
+  ],
+  "ctaSearch": false
+}
