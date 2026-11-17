@@ -8,6 +8,8 @@
   "airport-car-hire/new-york-jfk/index.html",
   "airport-car-hire/orlando/index.html",
   "airport-car-hire/index.html",
+  "blog/car-hire-abroad-licence-check-code-and-idp/index.html",
+  "blog/index.html",
   "car-hire-excess-insurance/index.html",
   "car-rental-companies/index.html",
   "compare/index.html",
@@ -19,6 +21,7 @@
   "search/index.html",
   "search-index.json",
   "404.html",
+  "blog/feed.xml",
   "sitemap.xml",
   "robots.txt"
 ]

@@ -1,0 +1,27 @@
+{
+  "updated": "2026-11-17",
+  "slug": "blog",
+  "type": "blog",
+  "title": "Car Hire Blog: Rental Tips & Guides | CarHireDeals",
+  "description": "Car hire and rental car guides for the USA, UK and Europe: licence rules, international driving permits, insurance and tips for a smoother pick-up.",
+  "nav": "Car hire blog",
+  "navOrder": 8,
+  "eyebrow": "Car hire tips · Guides",
+  "h1": "Car hire news and guides",
+  "intro": "Practical guides for renting a car abroad: what to bring to the desk, which licence rules apply and how to avoid surprises on pick-up.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1572401611152-cf63d874b019",
+    "alt": "Red hatchback driving on an open asphalt road",
+    "credit": "Maksim Tarasov",
+    "creditUrl": "https://unsplash.com/@awsmsky"
+  },
+  "search": false,
+  "listTitle": "Latest posts",
+  "keywords": [
+    "car hire blog",
+    "car rental tips",
+    "car hire guides",
+    "rental car advice"
+  ],
+  "cardText": "Car hire guides: licence rules, insurance and pick-up tips for the USA, UK and Europe."
+}
