@@ -1,6 +1,6 @@
 # CarHireDeals (carhiredeals.shmor.ai)
 
-A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Global car hire / rental car comparison: airport and local-depot pick-ups, the big comparison sites and rental brands, for the USA, UK, Europe and worldwide. Repo: `Shmorai/shmor-carhiredeals` (local git only so far; private until launch). Status: **building**. Created 2026-10-16.
+A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Global car hire / rental car comparison: airport and local-depot pick-ups, the big comparison sites and rental brands, for the USA, UK, Europe and worldwide. Repo: `Shmorai/shmor-carhiredeals` (local git only so far; private until launch). Status: **live**, with Carla Car Rental and VIP Cars (CJ) referral links. Created 2026-10-16.
 
 ## Where things are
 | What | Where |
@@ -26,6 +26,12 @@ Home · compare · airport-car-hire (hub) → heathrow (LHR), gatwick (LGW), lax
 
 ## Referral links
 When a programme approves you (Rentalcars.com, Discover Cars, Expedia, KAYAK, brand programmes on Awin/CJ/Impact…), add the link to `"links"` and set `"link": "<slug>"` on that provider in `"providers"`: all its buttons then go through shmor.ai/go/ (tracked, `rel="sponsored"`), but lose the prefilled trip, because /go/ takes one fixed URL. For per-region links use `"url": { "us", "uk", "eu" }` in the link. Rebuild, sync the master, commit both repos.
+
+## Affiliate partners (live, added 2026-11-18)
+- **Carla Car Rental** (CJ 7466061): US-based comparison of 1,000+ rental companies (US 41% / UK 39% of conversions). 25% partial-prepay / 10% full-prepay bookings, paid on pick-up; 60-day cookie; no special restrictions. Slugs `cj7466061-*`: home (evergreen), bnpl, offers, luxury; banners "Book Now Pay Later" 970x250 + "Travel Now Pay Later" 720x720 (phones). Skipped the "from $9/$10 a day" price links.
+- **VIP Cars** (CJ 7819955, Webart Softech UK): 22,000+ locations, 150+ countries. 50% of profit on completed bookings + 10% of cover; 30-day cookie; no "VIP Cars" in our URLs, CJ images only, no brand bidding. Slugs `cj7819955-*`: home, uk, offers ("save up to 70%", VIP Cars' own), airport deep links via link 17236371 + destination (lhr, lgw, fao, agp, mco, lax, jfk, dxb: VIP Cars airport URLs checked 2026-11-18, e.g. /car-rental/united-kingdom/london/heathrow-airport, /car-rental/usa-florida/orlando/orlando-airport, /car-rental/spain-mainland/malaga/malaga-airport); banners "Last chance: save up to 70%" 728x90 / 300x250 / 320x50.
+- All codes for the **CarHireDeals property (PID 101926924)**; banners self-hosted in `assets/img/partners/`.
+- Both are also **providers** (kind "search") with `link`, so the compare widget rows go through /go/ on every page. Placements: home (cards + Carla banner block), compare (cards, VIP button, Carla link), airport hub (VIP banner, Carla link), each airport page (VIP deep-link button + banner alternating VIP/Carla), one-way, local, van, young-driver, excess (careful wording), car-rental-companies, and both blog posts.
 
 ## Commands (run here)
 ```bash

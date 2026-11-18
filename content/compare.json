@@ -51,11 +51,11 @@
   "sections": [
     {
       "h2": "Getting a like-for-like comparison",
-      "html": "<p>Check that each site shows the <strong>same car class</strong> (for example “compact” or “intermediate SUV”), the same pick-up location and the same times. Then compare the <strong>final total</strong>, including taxes and fees, and the insurance excess, fuel policy and mileage limit. A slightly higher price with a lower excess or a free cancellation policy can be the better deal.</p><p>Brokers and rental brands that don’t accept pre-filled searches open on their own search page, where you just type your trip again.</p>"
+      "html": "<p>Check that each site shows the <strong>same car class</strong> (for example “compact” or “intermediate SUV”), the same pick-up location and the same times. Then compare the <strong>final total</strong>, including taxes and fees, and the insurance excess, fuel policy and mileage limit. A slightly higher price with a lower excess or a free cancellation policy can be the better deal.</p><p>Brokers and rental brands that don’t accept pre-filled searches open on their own search page, where you just type your trip again.</p>\n[[button:cj7819955-home|Compare rental prices with VIP Cars]]"
     },
     {
       "h2": "Tips that often save money",
-      "html": "<ul><li>Try a local depot as well as the airport: airport locations often add fees.</li><li>Shift your pick-up or drop-off time: rentals are usually priced in 24-hour periods, so returning an hour late can add a whole day.</li><li>Log in to brand loyalty programmes: several show member rates or skip-the-counter pick-up.</li><li>Book a free-cancellation rate early and check again nearer the date.</li></ul>"
+      "html": "<ul><li>Try a local depot as well as the airport: airport locations often add fees.</li><li>Shift your pick-up or drop-off time: rentals are usually priced in 24-hour periods, so returning an hour late can add a whole day.</li><li>Log in to brand loyalty programmes: several show member rates or skip-the-counter pick-up.</li><li>Book a free-cancellation rate early and check again nearer the date.</li></ul>\n<p>Comparison sites such as [[link:cj7466061-bnpl|Carla]] also let you book now and pay later on some rentals; check when payment is taken and the cancellation terms.</p>"
     }
   ],
   "faqs": [
@@ -77,5 +77,10 @@
     "car-hire-excess-insurance",
     "car-rental-companies"
   ],
-  "ctaSearch": false
+  "ctaSearch": false,
+  "partners": [
+    "cj7819955-home",
+    "cj7466061-home"
+  ],
+  "partnersTitle": "Compare car hire with our partners"
 }

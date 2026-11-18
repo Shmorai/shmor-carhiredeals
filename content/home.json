@@ -266,6 +266,11 @@
           "text": "You book with the site you choose. We never add a fee or take your payment."
         }
       ]
+    },
+    {
+      "type": "banner",
+      "link": "cj7466061-b-970",
+      "mobile": "cj7466061-b-720"
     }
   ],
   "sections": [
@@ -311,5 +316,10 @@
     "car hire",
     "car rental",
     "rental car deals"
-  ]
+  ],
+  "partners": [
+    "cj7466061-home",
+    "cj7819955-home"
+  ],
+  "partnersTitle": "Compare car hire with our partners"
 }

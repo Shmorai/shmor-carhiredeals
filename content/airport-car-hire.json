@@ -143,7 +143,7 @@
   "sections": [
     {
       "h2": "In-terminal or shuttle?",
-      "html": "<p>At some airports the rental counters are in or next to the terminal and the cars are in a nearby garage. At others, rental companies work from depots a short shuttle ride away. Both are normal: your booking confirmation says which applies, and where to meet the shuttle. If you have small children or lots of luggage, it’s worth checking before you book.</p>"
+      "html": "<p>At some airports the rental counters are in or next to the terminal and the cars are in a nearby garage. At others, rental companies work from depots a short shuttle ride away. Both are normal: your booking confirmation says which applies, and where to meet the shuttle. If you have small children or lots of luggage, it’s worth checking before you book.</p>\n[[banner:cj7819955-b-728|cj7819955-b-300]]"
     },
     {
       "h2": "Airport fees and opening hours",
@@ -151,7 +151,7 @@
     },
     {
       "h2": "Searching by airport code",
-      "html": "<p>You can search by name (“Orlando Airport”) or by the three-letter airport code (“MCO”). Codes are the most reliable way to make sure the comparison sites pick the airport rather than a city-centre depot.</p>"
+      "html": "<p>You can search by name (“Orlando Airport”) or by the three-letter airport code (“MCO”). Codes are the most reliable way to make sure the comparison sites pick the airport rather than a city-centre depot.</p>\n<p>You can also search by airport on comparison sites such as [[link:cj7466061-home|Carla]], which lists in-terminal and shuttle suppliers together.</p>"
     }
   ],
   "faqs": [
