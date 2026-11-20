@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-11-20",
   "slug": "van-hire",
   "nav": "Van hire",
   "navOrder": 6,
@@ -28,12 +28,20 @@
     {
       "h2": "Before you drive away",
       "html": "<ul><li>Check the van’s height before car parks and drive-throughs.</li><li>Photograph any existing damage, including the load area.</li><li>Ask whether mileage is limited: van hire often includes a set daily mileage.</li></ul>"
+    },
+    {
+      "h2": "Licence weight limits in more detail",
+      "html": "<p>GOV.UK says that if you passed your category B car test on or after 1 January 1997, you can drive vehicles up to 3,500kg maximum authorised mass (MAM), with up to 8 passenger seats; zero-emission electric or hydrogen vehicles can go up to 4,250kg MAM. Drivers who passed before 1 January 1997 usually have wider limits. Check the weight on the van's paperwork and your own licence entitlements on GOV.UK before booking a larger van, and check whether you plan to tow a trailer, which has its own rules.</p>"
     }
   ],
   "faqs": [
     {
       "q": "Can I drive a hire van on a car licence?",
       "a": "In the UK, yes for vans up to 3,500 kg on a category B licence, which covers most hire vans. Rental companies may also have minimum age and licence-holding requirements."
+    },
+    {
+      "q": "What size van can I drive on a standard UK licence?",
+      "a": "For a category B licence passed on or after 1 January 1997, GOV.UK gives a limit of 3,500kg maximum authorised mass (4,250kg for electric or hydrogen vehicles). Check your licence on GOV.UK and the van's weight before you book."
     }
   ],
   "related": [
