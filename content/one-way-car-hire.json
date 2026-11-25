@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-11-25",
   "slug": "one-way-car-hire",
   "nav": "One-way",
   "navOrder": 5,
@@ -28,12 +28,24 @@
     {
       "h2": "Classic one-way road trips",
       "html": "<ul><li>Los Angeles to San Francisco along the Pacific Coast Highway.</li><li>Los Angeles or Phoenix to Las Vegas.</li><li>Miami to Orlando, or down to the Florida Keys and back.</li><li>Edinburgh to Inverness via the Highlands.</li><li>Lisbon to the Algarve.</li></ul>"
+    },
+    {
+      "h2": "Checklist before you book a one-way hire",
+      "html": "<ul><li><strong>Compare the total, not the daily rate.</strong> One-way fees are often added at the end of the booking, so compare the final price on each site for the same pick-up and drop-off.</li><li><strong>Check the drop-off branch.</strong> Opening hours, and whether out-of-hours key drop is allowed, vary by location and company.</li><li><strong>Confirm cross-border rules.</strong> If your route crosses a border, check that the company allows it and what extra charges, insurance or documents apply. See our <a href=\"/blog/car-hire-abroad-licence-check-code-and-idp/\">licence and IDP guide</a>.</li><li><strong>Check tolls and road charges.</strong> Some countries require a vignette or sticker: see our <a href=\"/blog/austria-digital-vignette-2027-hire-car/\">Austria vignette guide</a> and <a href=\"/blog/hire-car-france-low-emission-zone-stickers/\">French emission sticker guide</a>.</li><li><strong>Look at the excess.</strong> Read our guide to <a href=\"/blog/car-hire-excess-collision-damage-waiver-explained/\">excess and CDW</a> before you pay for extra cover.</li></ul>"
     }
   ],
   "faqs": [
     {
       "q": "Why is one-way car hire more expensive?",
       "a": "The rental company has to get the car back to where it’s needed, so it charges a one-way or drop fee. Popular routes between big cities tend to cost less."
+    },
+    {
+      "q": "Can I drop a hire car off at a different airport?",
+      "a": "Often yes, but it depends on the rental company and the locations. Choose a different drop-off when you search and compare the total price, because a one-way fee may be added."
+    },
+    {
+      "q": "Should I check the drop-off branch's opening hours?",
+      "a": "Yes. Opening hours and out-of-hours return options vary by location and company, so check them on the booking page or with the rental company before you travel."
     }
   ],
   "related": [
