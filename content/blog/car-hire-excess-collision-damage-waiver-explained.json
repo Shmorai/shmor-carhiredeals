@@ -86,5 +86,8 @@
   "updated": "2026-11-23",
   "date": "2026-11-23",
   "slug": "blog/car-hire-excess-collision-damage-waiver-explained",
-  "type": "post"
+  "type": "post",
+  "related": [
+    "blog/dartford-crossing-charge-hire-car-uk"
+  ]
 }
